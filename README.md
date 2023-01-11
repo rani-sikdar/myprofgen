@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩‍💻 About Me:
 🔭 I’m currently working on Salesforce LWC<br>👯 I’m looking to collaborate on Machine Learning Projects.<br>🤝 I’m looking for help to know more about dat. <br>🌱 I’m currently learning Data Science with ML.<br>💬 Ask me about tech, fitness, investing.<br>⚡ Every day is a learning day.
 
 
@@ -20,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=rani-sikdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rssikdar) 
